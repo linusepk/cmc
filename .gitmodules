@@ -1,0 +1,3 @@
+[submodule "libs/rebound"]
+	path = libs/rebound
+	url = git@github.com:LinusEPK/rebound.git
